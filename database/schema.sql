@@ -1,4 +1,4 @@
--- Enable necessary extensions
+-- Enable necessary extensions, yes
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 -- Create users table (extends Supabase auth.users)
